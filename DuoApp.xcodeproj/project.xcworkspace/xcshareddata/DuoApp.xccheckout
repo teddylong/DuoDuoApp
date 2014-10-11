@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>71DA6EBC-1B81-4DE2-AF2E-C69AEB56A28C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DuoApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F08C7205136D4CCA2AA35598145E74F31F65C5BE</key>
+		<string>https://github.com/teddylong/DuoDuoApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DuoApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F08C7205136D4CCA2AA35598145E74F31F65C5BE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/teddylong/DuoDuoApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F08C7205136D4CCA2AA35598145E74F31F65C5BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F08C7205136D4CCA2AA35598145E74F31F65C5BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DuoDuoApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
