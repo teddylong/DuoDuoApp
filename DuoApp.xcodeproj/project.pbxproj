@@ -15,7 +15,6 @@
 		D0090DF119E7B8C400F6B17C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0090DEF19E7B8C400F6B17C /* LaunchScreen.xib */; };
 		D0090DFD19E7B8C400F6B17C /* DuoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0090DFC19E7B8C400F6B17C /* DuoAppTests.swift */; };
 		D0D527E519E91CE600777A55 /* boy.png in Resources */ = {isa = PBXBuildFile; fileRef = D0D527E419E91CE600777A55 /* boy.png */; };
-		D0D527E719E92F8B00777A55 /* man-7.png in Resources */ = {isa = PBXBuildFile; fileRef = D0D527E619E92F8B00777A55 /* man-7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +40,6 @@
 		D0090DFB19E7B8C400F6B17C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0090DFC19E7B8C400F6B17C /* DuoAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuoAppTests.swift; sourceTree = "<group>"; };
 		D0D527E419E91CE600777A55 /* boy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boy.png; sourceTree = "<group>"; };
-		D0D527E619E92F8B00777A55 /* man-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "man-7.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,7 +121,6 @@
 		D0D527E319E91CD900777A55 /* IMG */ = {
 			isa = PBXGroup;
 			children = (
-				D0D527E619E92F8B00777A55 /* man-7.png */,
 				D0D527E419E91CE600777A55 /* boy.png */,
 			);
 			path = IMG;
@@ -213,7 +210,6 @@
 				D0090DEC19E7B8C400F6B17C /* Main.storyboard in Resources */,
 				D0090DF119E7B8C400F6B17C /* LaunchScreen.xib in Resources */,
 				D0090DEE19E7B8C400F6B17C /* Images.xcassets in Resources */,
-				D0D527E719E92F8B00777A55 /* man-7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

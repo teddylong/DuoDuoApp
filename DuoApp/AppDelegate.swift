@@ -15,7 +15,29 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+         let rvc:UIViewController = UIViewController()
+         let nav = UINavigationController(rootViewController: rvc)
+         self.window!.rootViewController = nav
         // Override point for customization after application launch.
+//        var navigationController_FirstView = UINavigationController(rootViewController:UIViewController())
+//        navigationController_FirstView.tabBarItem = UITabBarItem(tabBarSystemItem:.Downloads, tag:1)
+//        
+//        var navigationController_SecondView = UINavigationController(rootViewController:UIViewController())
+//        navigationController_SecondView.tabBarItem = UITabBarItem(tabBarSystemItem:.Featured, tag:2)
+//        
+//        var navigationController_thirdView = UINavigationController(rootViewController:UIViewController())
+//        navigationController_thirdView.tabBarItem = UITabBarItem(tabBarSystemItem:.Featured, tag:3)
+//        
+//        
+//        var aryControllers = [navigationController_FirstView,navigationController_SecondView,navigationController_thirdView]
+//        
+//        var tabBarContol:UITabBarController = UITabBarController()
+//        tabBarContol.setViewControllers(aryControllers, animated: true)
+//        
+//        
+//        self.window!.rootViewController = tabBarContol
+        
+        
         return true
     }
 
